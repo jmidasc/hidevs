@@ -2,6 +2,6 @@ import React from 'react'
 
 export default () => {
     return (
-        <div>PartTop works!</div>
+        <div>PartCenter works!</div>
     )
 }
