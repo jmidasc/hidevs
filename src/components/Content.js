@@ -5,10 +5,10 @@ import PartBottom from './PartBottom'
 
 export default () => {
     return (
-        <div>
+        <>
             <PartTop/>
             <PartCenter/>
             <PartBottom/>
-        </div>
+        </>
     )
 }
