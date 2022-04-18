@@ -20,7 +20,7 @@ export default () => {
                   near your business
                 </h1>
                 <p class="paragraph-hero-2">
-                  <span class="arkusspan-2">ArkusNexus</span> provides
+                  <span class="arkusspan-2">Hi-Devs</span> provides
                   high-level solutions to increase your company revenue. Work
                   with the best developers from across Mexico and Latin America.
                 </p>

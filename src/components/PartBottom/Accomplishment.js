@@ -2,7 +2,7 @@ import React from "react";
 
 export default () => {
   return (
-    <div class="accomplished wf-section">
+    <div class="accomplished wf-section" id="projects">
       <div class="containersectors w-container">
         <div class="titlef">
           <p class="hsnew-2">Accomplished projects</p>
@@ -13,34 +13,34 @@ export default () => {
           <div class="teams">
             <div class="industries">
               <img
-                src="https://uploads-ssl.webflow.com/5e589a8b7bb9af87ad968338/613f85edfa006430eec1195a_drata-wordmark-dark.svg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSjasB9pSrrycCYeYwSEQbDsuwltYEX-OmYQ7kFJ2SUCy6IvdabNCUM2Ts-pA_rqWfAY&usqp=CAU"
                 loading="lazy"
                 alt="drata"
-                class="ap-drata"
+                class=""
               />
             </div>
             <div class="industries">
               <img
-                src="https://uploads-ssl.webflow.com/5e589a8b7bb9af87ad968338/60b7de0c680ab4a74117d7e4_software-development_identiv.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkwH5DDxKci_PogREOH_Y4qdj-t1yTLYipm9a5T0sTzAqWJeH0T8TchmGwUJecyyNEnA&usqp=CAU"
                 loading="lazy"
                 alt="identiv"
-                class="ap"
+                class=""
               />
             </div>
             <div class="industries">
               <img
-                src="https://uploads-ssl.webflow.com/5e589a8b7bb9af87ad968338/60b7de0cc357fbf093cde665_software-development_Figo.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHe4d5QUydgZItdH2Us9nV3X28-1K6l08ZysFT19QA6mzfGyaQEBUXcgO-yQp07TRlO4&usqp=CAU"
                 loading="lazy"
                 alt="FIGO pet insurance"
-                class="ap"
+                class=""
               />
             </div>
             <div class="industries">
               <img
-                src="https://uploads-ssl.webflow.com/5e589a8b7bb9af87ad968338/60b7de0c06b02704acf8a2b2_software-development_coca-cola.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCqcr1Hn-QZ1NTWyOPxO-ZDij9bndEVsQTZHGS8rbHCdekj-EWMYUUAl1vLqOsckPg0E&usqp=CAU"
                 loading="lazy"
                 alt="coca cola"
-                class="ap"
+                class=""
               />
             </div>
           </div>

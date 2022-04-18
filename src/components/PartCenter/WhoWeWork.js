@@ -2,7 +2,7 @@ import React from "react";
 
 export default () => {
   return (
-    <div class="whowework-2 wf-section">
+    <div class="whowework-2 wf-section" id="who-we-work">
       <div class="containersectors w-container">
         <h1 class="whowork-2">Industries we currently support</h1>
         <div class="containers5">

@@ -2,7 +2,7 @@ import React from "react";
 
 export default () => {
   return (
-    <div class="nearshore-better wf-section">
+    <div class="nearshore-better wf-section" id="our-work">
       <div class="containersectors w-container">
         <h1 class="nearshoreh-2">This is how we work</h1>
         <div class="columns-45 w-row">

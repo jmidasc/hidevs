@@ -10,7 +10,7 @@ export default () => {
       >
         <div class="divcovid-2">
           <div class="covidbanner-2">
-            Click here to read Arkusnexus’ message in regards to covid-19
+            Click here to read Hi-Devs’ message in regards to covid-19
           </div>
         </div>
       </a>
