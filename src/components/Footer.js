@@ -22,7 +22,7 @@ export default () => {
               <br/><br />
               Postal code: 110057
               <br/><br/>
-              Company owner: Huang Jing Bin +86 17641562274
+              Contact: Huang Jing Bin +86 17641562274
             </p>
             
           </div>
